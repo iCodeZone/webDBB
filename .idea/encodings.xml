@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/myweb/src/Bean/BuyBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/myweb/src/Bean/CustomerBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/myweb/src/Bean/DealerBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/myweb/src/Bean/GoodsBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/myweb/src/Bean/MadeBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/myweb/src/Bean/ProvideBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/myweb/src/Bean/TrolleyBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/myweb/src/DAO/CustomerDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/myweb/src/Servlet/Login/AutoLogin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/myweb/src/Servlet/Login/CustomerLogin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/myweb/src/Servlet/Register/CustomerRegister.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
