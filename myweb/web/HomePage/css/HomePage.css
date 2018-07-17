@@ -1,0 +1,155 @@
+html{
+    width:100%;
+    height:100%;
+    margin:0;
+    padding: 0;
+    overflow: hidden;
+}
+
+body{
+    width:100%;
+    height:100%;
+    margin:0;
+    padding: 0；
+}
+
+.p1{
+    font-family:华文行楷,STXingkai;
+    font-size:50px;
+    color:rgb(255, 102, 0);
+    text-shadow: 1px 1px 5px;
+}
+
+.p2{
+    font-family:华文行楷,STXingkai;
+    font-size:20px;
+    color:rgb(255, 102, 0);
+}
+
+#title-2{
+    top:30px;
+    left:45px;
+}
+
+#title-3{
+    top:30px;
+    left:70px;
+}
+
+#title-4{
+    top:30px;
+    left:50px;
+}
+
+#p4:hover #people{
+    display:block;
+}
+
+#btn-1:hover{
+    background:white;
+}
+
+.name-1{
+    color:rgb(197, 196, 195);
+}
+
+.name:hover{
+    background:white;
+}
+
+#btn-1{
+    border:none;
+}
+
+#p5:hover .menu{
+    display:block;
+}
+
+.menu{
+    display:none;
+    position:absolute;
+    z-index: 20;
+    background:rgb(246,246,246);
+    width:100%;
+    right:50px;
+}
+
+.menu-1{
+    text-align:right;
+}
+
+.menu-2{
+    float:left;
+}
+
+.menu-3{
+    float:left;
+    margin-left:20px;
+    margin-top:5px;
+}
+
+.menu-4{
+    text-align:center;
+    margin-top:30px;
+}
+
+.bas{
+    margin-top:2px;
+}
+
+#nav{
+    background:rgb(255, 102, 0);
+    height:64px;
+    /*width:100%;*/
+    box-shadow: 5px 1px 10px 1px;
+}
+
+#butt-1{
+    height:64px;
+    background:rgb(255, 102, 0);
+    border:none;
+    color:white;
+}
+
+#butt-2{
+    height:64px;
+    background:rgb(255, 102, 0);
+    border:none;
+    color:white;
+}
+
+#butt-3{
+    height:64px;
+    background:rgb(255, 102, 0);
+    border:none;
+    color:white;
+}
+
+
+
+#butt-1:hover{
+    background:rgb(239,239,206);
+    color:rgb(255, 102, 0);
+}
+
+#butt-2:hover{
+    background:rgb(239,239,206);
+    color:rgb(255, 102, 0);
+}
+
+#butt-3:hover{
+    background:rgb(239,239,206);
+    color:rgb(255, 102, 0);
+}
+
+#button-1{
+    margin-left:190px;
+}
+
+.button-2{
+    margin-left:-40px;
+}
+
+.button-3{
+    margin-right:300px;
+}
